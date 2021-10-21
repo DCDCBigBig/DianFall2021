@@ -1,0 +1,4 @@
+TYPE=CODE128 data=b'dian.ai.nanrui'
+TYPE=CODE128 data=b'dian.ai.nanrui'
+TYPE=CODE128 data=b'lrylj2333'
+TYPE=CODE128 data=b'jhynb2333'

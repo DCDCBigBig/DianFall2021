@@ -1,0 +1,2 @@
+TYPE=CODE128 data=b'whyalwaysme'
+TYPE=CODE128 data=b'35456413212346'

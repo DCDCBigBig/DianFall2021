@@ -1,0 +1,3 @@
+TYPE=CODE128 data=b'deeplearning'
+TYPE=CODE128 data=b'jhylrygyfcwclzs'
+TYPE=CODE128 data=b'nanruidianwang'
